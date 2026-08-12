@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 3 | 4 |
+| 4 | 4 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (1)
+- [brute force](#brute-force) (2)
 - [dp](#dp) (1)
 - [implementation](#implementation) (1)
 - [math](#math) (1)
@@ -24,6 +24,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [PyPy 3](https://github.com/quannguyencoder/Codeforces-Solutions/blob/HEAD/4/A%20-%20Watermelon/solution.txt) |
+| 25A | [IQ test](https://codeforces.com/contest/25/problem/A) | 1300 | [Python 3](https://github.com/quannguyencoder/Codeforces-Solutions/blob/HEAD/25/A%20-%20IQ%20test/solution.py) |
 
 ### dp
 

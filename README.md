@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 4 | 4 |
+| 5 | 4 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (2)
-- [dp](#dp) (1)
+- [brute force](#brute-force) (3)
+- [dp](#dp) (2)
 - [implementation](#implementation) (1)
 - [math](#math) (1)
 
@@ -25,11 +25,13 @@
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [PyPy 3](https://github.com/quannguyencoder/Codeforces-Solutions/blob/HEAD/4/A%20-%20Watermelon/solution.txt) |
 | 25A | [IQ test](https://codeforces.com/contest/25/problem/A) | 1300 | [Python 3](https://github.com/quannguyencoder/Codeforces-Solutions/blob/HEAD/25/A%20-%20IQ%20test/solution.py) |
+| 189A | [Cut Ribbon](https://codeforces.com/contest/189/problem/A) | 1300 | [Python 3](https://github.com/quannguyencoder/Codeforces-Solutions/blob/HEAD/189/A%20-%20Cut%20Ribbon/solution.py) |
 
 ### dp
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 189A | [Cut Ribbon](https://codeforces.com/contest/189/problem/A) | 1300 | [Python 3](https://github.com/quannguyencoder/Codeforces-Solutions/blob/HEAD/189/A%20-%20Cut%20Ribbon/solution.py) |
 | 455A | [Boredom](https://codeforces.com/contest/455/problem/A) | 1500 | [Python 3](https://github.com/quannguyencoder/Codeforces-Solutions/blob/HEAD/455/A%20-%20Boredom/solution.py) |
 
 ### implementation

@@ -1,0 +1,26 @@
+def solve():
+    n = int(input()) 
+    L = [0] * n
+    R = [0] * n
+    U = [0] * n
+    V = [0] * n
+    for i in range(n):
+        L[i], R[i], U[i], V[i] = map(int, input().split())    
+    for m in range(n, 0, -1):
+        j = 1 
+        for i in range(n):
+            left_rank = j
+            right_rank = m - j + 1
+            dinh_vung_trai = (L[i] <= left_rank <= R[i])
+            dinh_vung_phai = (U[i] <= right_rank <= V[i])
+            if not dinh_vung_trai and not dinh_vung_phai:
+                j += 1
+                if j > m:
+                    break          
+        if j > m:
+            print(m)
+            return
+    print(0)
+t = int(input())
+for _ in range(t):
+    solve()

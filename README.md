@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 6 | 5 |
+| 7 | 7 |
 
 ---
 
@@ -14,7 +14,9 @@
 
 - [Uncategorized](#uncategorized) (1)
 - [brute force](#brute-force) (3)
+- [constructive algorithms](#constructive-algorithms) (1)
 - [dp](#dp) (2)
+- [greedy](#greedy) (1)
 - [implementation](#implementation) (1)
 - [math](#math) (1)
 
@@ -34,12 +36,24 @@
 | 25A | [IQ test](https://codeforces.com/contest/25/problem/A) | 1300 | [Python 3](https://github.com/quannguyencoder/Codeforces-Solutions/blob/HEAD/25/A%20-%20IQ%20test/solution.py) |
 | 189A | [Cut Ribbon](https://codeforces.com/contest/189/problem/A) | 1300 | [Python 3](https://github.com/quannguyencoder/Codeforces-Solutions/blob/HEAD/189/A%20-%20Cut%20Ribbon/solution.py) |
 
+### constructive algorithms
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2223A | [Zhily and Bracket Swapping](https://codeforces.com/contest/2223/problem/A) | 1300 | [PyPy 3-64](https://github.com/quannguyencoder/Codeforces-Solutions/blob/HEAD/2223/A%20-%20Zhily%20and%20Bracket%20Swapping/solution.txt) |
+
 ### dp
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 189A | [Cut Ribbon](https://codeforces.com/contest/189/problem/A) | 1300 | [Python 3](https://github.com/quannguyencoder/Codeforces-Solutions/blob/HEAD/189/A%20-%20Cut%20Ribbon/solution.py) |
 | 455A | [Boredom](https://codeforces.com/contest/455/problem/A) | 1500 | [Python 3](https://github.com/quannguyencoder/Codeforces-Solutions/blob/HEAD/455/A%20-%20Boredom/solution.py) |
+
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2223A | [Zhily and Bracket Swapping](https://codeforces.com/contest/2223/problem/A) | 1300 | [PyPy 3-64](https://github.com/quannguyencoder/Codeforces-Solutions/blob/HEAD/2223/A%20-%20Zhily%20and%20Bracket%20Swapping/solution.txt) |
 
 ### implementation
 

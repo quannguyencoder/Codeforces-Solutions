@@ -6,18 +6,25 @@
 
 | Total Problems | Topics |
 |---|---|
-| 5 | 4 |
+| 6 | 5 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [Uncategorized](#uncategorized) (1)
 - [brute force](#brute-force) (3)
 - [dp](#dp) (2)
 - [implementation](#implementation) (1)
 - [math](#math) (1)
 
 ---
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2249A | [Rank Subsequence](https://codeforces.com/contest/2249/problem/A) | Unrated | [PyPy 3-64](https://github.com/quannguyencoder/Codeforces-Solutions/blob/HEAD/2249/A%20-%20Rank%20Subsequence/solution.txt) |
 
 ### brute force
 

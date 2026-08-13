@@ -1,0 +1,27 @@
+def solve():
+    n = int(input())
+    a = input()
+    b = input()
+    bal_a = 0
+    bal_b = 0
+    for i in range(n):
+        if a[i] == b[i]:
+            if a[i] == '(':
+                bal_a += 1
+                bal_b += 1
+                continue
+            bal_a -= 1
+            bal_b -= 1
+        else:
+            if bal_a < bal_b:
+                bal_a += 1
+                bal_b -= 1
+            else:
+                bal_a -= 1
+                bal_b += 1
+        if bal_a < 0 or bal_b < 0:
+            return 'NO'
+    return 'YES' if bal_a == bal_b == 0 else 'NO'
+t = int(input())
+for _ in range(t):
+    print(solve())

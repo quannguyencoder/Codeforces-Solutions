@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 7 | 7 |
+| 8 | 7 |
 
 ---
 
@@ -15,10 +15,10 @@
 - [Uncategorized](#uncategorized) (1)
 - [brute force](#brute-force) (3)
 - [constructive algorithms](#constructive-algorithms) (1)
-- [dp](#dp) (2)
+- [dp](#dp) (3)
 - [greedy](#greedy) (1)
 - [implementation](#implementation) (1)
-- [math](#math) (1)
+- [math](#math) (2)
 
 ---
 
@@ -46,6 +46,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2B | [The least round way](https://codeforces.com/contest/2/problem/B) | 2000 | [PyPy 3-64](https://github.com/quannguyencoder/Codeforces-Solutions/blob/HEAD/2/B%20-%20The%20least%20round%20way/solution.txt) |
 | 189A | [Cut Ribbon](https://codeforces.com/contest/189/problem/A) | 1300 | [Python 3](https://github.com/quannguyencoder/Codeforces-Solutions/blob/HEAD/189/A%20-%20Cut%20Ribbon/solution.py) |
 | 455A | [Boredom](https://codeforces.com/contest/455/problem/A) | 1500 | [Python 3](https://github.com/quannguyencoder/Codeforces-Solutions/blob/HEAD/455/A%20-%20Boredom/solution.py) |
 
@@ -65,6 +66,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2B | [The least round way](https://codeforces.com/contest/2/problem/B) | 2000 | [PyPy 3-64](https://github.com/quannguyencoder/Codeforces-Solutions/blob/HEAD/2/B%20-%20The%20least%20round%20way/solution.txt) |
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [PyPy 3](https://github.com/quannguyencoder/Codeforces-Solutions/blob/HEAD/4/A%20-%20Watermelon/solution.txt) |
 
 ---
